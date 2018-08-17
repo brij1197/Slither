@@ -1,0 +1,15 @@
+C:\Users\brijb\source\repos\Slither\Slither\bin\Debug\Slither.exe.config
+C:\Users\brijb\source\repos\Slither\Slither\bin\Debug\Slither.exe
+C:\Users\brijb\source\repos\Slither\Slither\bin\Debug\Slither.pdb
+C:\Users\brijb\source\repos\Slither\Slither\bin\Debug\Geckofx-Core.dll
+C:\Users\brijb\source\repos\Slither\Slither\bin\Debug\Geckofx-Winforms.dll
+C:\Users\brijb\source\repos\Slither\Slither\bin\Debug\Geckofx-Core.pdb
+C:\Users\brijb\source\repos\Slither\Slither\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.csprojAssemblyReference.cache
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.Form1.resources
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.Properties.Resources.resources
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.csproj.GenerateResource.cache
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.csproj.CoreCompileInputs.cache
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.csproj.CopyComplete
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.exe
+C:\Users\brijb\source\repos\Slither\Slither\obj\Debug\Slither.pdb
